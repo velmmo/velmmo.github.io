@@ -521,6 +521,9 @@ img[alt="page2"] {
     .projects .nums .num {
         padding: 15px;
     }
+    .projects .container .projects-holder span {
+    font-size : 19.5px;
+    }
 }
 @media (max-width: 450px) {
     .projects .nums .numclass {
